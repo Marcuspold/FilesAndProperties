@@ -1,0 +1,3 @@
+C:\Users\opilane\source\repos\FilesProperty\FilesProperty\obj\Debug\netcoreapp3.1\FilesProperty.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\FilesProperty\FilesProperty\obj\Debug\netcoreapp3.1\FilesProperty.AssemblyInfo.cs
+C:\Users\opilane\source\repos\FilesProperty\FilesProperty\obj\Debug\netcoreapp3.1\FilesProperty.csproj.CoreCompileInputs.cache
